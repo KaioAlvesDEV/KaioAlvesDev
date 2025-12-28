@@ -1,1 +1,1 @@
-*input(f*'**Tudo bem? {nome}**'*)* 
+input(f'**Tudo bem? {nome}**') 
